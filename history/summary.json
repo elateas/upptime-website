@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 672,
-    "timeDay": 672,
+    "timeDay": 771,
     "timeWeek": 672,
     "timeMonth": 672,
     "timeYear": 672,
@@ -29,10 +29,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 281,
-    "timeDay": 281,
+    "timeDay": 262,
     "timeWeek": 281,
     "timeMonth": 281,
     "timeYear": 281,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "intern.elate.no",
+    "url": "https://intern.elate.no",
+    "icon": "https://favicons.githubusercontent.com/intern.elate.no",
+    "slug": "intern-elate-no",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   }
 ]
