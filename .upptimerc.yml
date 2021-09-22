@@ -7,6 +7,8 @@ sites:
     url: https://elate.no
   - name: PHB
     url: https://phb.elate.no
+  - name: intern.elate.no
+    url: https://intern.elate.no
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
