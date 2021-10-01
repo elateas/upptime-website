@@ -1,7 +1,7 @@
 url: https://intern.elate.no
-status: up
-code: 200
-responseTime: 930
-lastUpdated: 2021-10-01T15:42:55.546Z
+status: down
+code: 503
+responseTime: 552
+lastUpdated: 2021-10-01T19:09:04.471Z
 startTime: Wed Sep 22 2021 19:01:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
